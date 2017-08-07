@@ -241,7 +241,16 @@ input[type=submit] {
 /*This is where I started the media responsive adjustment. I decided that the most efficient way to approach
 this was to copy and past the entire CSS chain below the section for each screen width. I then went 
 through and (1) deleted the design elements that were irrelevant to screen size, and (2) adjusted the 
-size-related elements down as the screen size shrinks.*/
+size-related elements down as the screen size shrinks.
+
+I know that copying and re-pasting the entire CSS for each medai screen width is not a good way to do this. Adding
+unnecessary information in the CSS will make the website load and respond slowly. I intended to go back through 
+all of the CSS below this note and delete the unnecessary codes. I didn't do it because I had to move on to the 
+bootstrap portfolio assignment. 
+
+I believe that taking this more clunky approach did help me learn from the exercise. My reading the CSS completely
+through four times, I got a good picture in my head of how the classes their attributes connected to the HTML, and
+how it looked on the screen.*/
 
 /*Here is the media responsive adjustment for 980px*/
 
